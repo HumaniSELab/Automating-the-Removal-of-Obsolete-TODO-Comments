@@ -16,6 +16,9 @@ Please cite our work if you found our work is helpful:
 }
 ```
 
+More details: https://www.monash.edu/it/humanise-lab/projects/completed-projects/automating-the-removal-of-obsolete-todo-comments
+
+
 **TDCleaner** Workflow
 <p align="center">
   <img src="./workflow.png" width="800" title="Overview" alt="">
